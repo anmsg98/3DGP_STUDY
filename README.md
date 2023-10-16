@@ -1,1 +1,1 @@
-# 3DGP_STUDY
+# 3DGP_STUDY DirectX 12
